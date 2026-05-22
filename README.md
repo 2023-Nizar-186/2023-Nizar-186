@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ahmad Nizar</h1>
 
 <h3 align="center">
-Informatics Student | C# Developer | Laravel Enthusiast | Dragon Ball Fan
+Informatics Student | C# Developer | Data Science Enthusiast | Network Security Hobbyist
 </h3>
 
 <p align="center">
@@ -19,8 +19,10 @@ Keep training. Keep improving. 🔥
 🎓 Semester 6 Informatics Student  
 🌏 East Java, Indonesia  
 🐉 Dragon Ball inspired me to keep growing  
-💻 Interested in Software Development & Database  
-🚀 Currently improving my programming skills  
+📊 Interested in Data Science and Software Development  
+🔐 Interested in Network Security  
+💻 Passionate about learning and building projects  
+🚀 Currently improving my programming skills
 
 ---
 
@@ -28,9 +30,18 @@ Keep training. Keep improving. 🔥
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,c,laravel,mysql,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=cs,c,python,laravel,mysql,git,vscode"/>
 
 </p>
+
+---
+
+## 🧠 Areas of Interest
+
+📈 Data Science  
+🔐 Network Security  
+🖥 Software Development  
+🗄 Database Systems  
 
 ---
 
@@ -59,9 +70,11 @@ Keep training. Keep improving. 🔥
 ## 🎯 Current Goals
 
 ✔ Improve C# skill  
+✔ Learn Python for Data Science  
 ✔ Learn more Laravel  
+✔ Explore Network Security  
 ✔ Build useful applications  
-✔ Keep leveling up every day  
+✔ Keep leveling up every day
 
 ---
 
@@ -72,5 +85,7 @@ Keep training. Keep improving. 🔥
 ---
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile ⭐
+
 </p>

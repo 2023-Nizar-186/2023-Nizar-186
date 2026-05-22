@@ -61,7 +61,7 @@ Keep training. Keep improving. 🔥
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=okayamagang&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=2023-Nizar-186&theme=tokyonight"/>
 
 </p>
 

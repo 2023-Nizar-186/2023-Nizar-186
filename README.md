@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Ahmad Nizar</h1>
 
-<!--
-**2023-Nizar-186/2023-Nizar-186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Informatics Student | C# Developer | Laravel Enthusiast | Dragon Ball Fan
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+"Keep training, keep improving."
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="100%">
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Semester 6 Informatics Student  
+🌏 East Java, Indonesia  
+🐉 Dragon Ball inspired me to keep growing  
+💻 Interested in Software Development & Database  
+🚀 Currently building projects and improving coding skills
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,c,laravel,mysql,git,vscode"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Current Goals
+
+✔ Improve C# skill  
+✔ Learn more Laravel  
+✔ Build useful applications  
+✔ Keep leveling up every day
+
+---
+
+## 🌟 Quote
+
+> "Power comes in response to a need."

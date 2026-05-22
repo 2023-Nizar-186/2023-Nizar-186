@@ -29,7 +29,7 @@ Keep training. Keep improving. 🔥
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,c,cpp,java,python,laravel,dart,mysql,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=cs,c,cpp,java,python,laravel,php,js,css,dart,mysql,git,vscode"/>
 </p>
 
 ---

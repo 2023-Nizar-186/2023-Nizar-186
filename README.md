@@ -22,16 +22,14 @@ Keep training. Keep improving. 🔥
 📊 Interested in Data Science and Software Development  
 🔐 Interested in Network Security  
 💻 Passionate about learning and building projects  
-🚀 Currently improving my programming skills
+🚀 Currently improving my programming skills  
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=cs,c,python,laravel,mysql,git,vscode"/>
-
 </p>
 
 ---
@@ -49,9 +47,9 @@ Keep training. Keep improving. 🔥
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=okayamagang&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2023-Nizar-186&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okayamagang&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2023-Nizar-186&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -74,7 +72,7 @@ Keep training. Keep improving. 🔥
 ✔ Learn more Laravel  
 ✔ Explore Network Security  
 ✔ Build useful applications  
-✔ Keep leveling up every day
+✔ Keep leveling up every day  
 
 ---
 
@@ -85,7 +83,5 @@ Keep training. Keep improving. 🔥
 ---
 
 <p align="center">
-
 ⭐ Thanks for visiting my profile ⭐
-
 </p>

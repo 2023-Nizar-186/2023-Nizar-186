@@ -47,9 +47,19 @@ Keep training. Keep improving. 🔥
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2023%2DNizar%2D186&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2023-Nizar-186&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2023%2DNizar%2D186&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2023-Nizar-186&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2023-Nizar-186&theme=tokyonight"/>
 
 </p>
 

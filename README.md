@@ -47,9 +47,9 @@ Keep training. Keep improving. 🔥
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2023-Nizar-186&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2023%2DNizar%2D186&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2023-Nizar-186&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2023%2DNizar%2D186&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 

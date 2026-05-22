@@ -5,10 +5,12 @@ Informatics Student | C# Developer | Laravel Enthusiast | Dragon Ball Fan
 </h3>
 
 <p align="center">
-"Keep training, keep improving."
+Keep training. Keep improving. 🔥
 </p>
 
-<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="100%">
+<p align="center">
+<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="700">
+</p>
 
 ---
 
@@ -18,7 +20,7 @@ Informatics Student | C# Developer | Laravel Enthusiast | Dragon Ball Fan
 🌏 East Java, Indonesia  
 🐉 Dragon Ball inspired me to keep growing  
 💻 Interested in Software Development & Database  
-🚀 Currently building projects and improving coding skills
+🚀 Currently improving my programming skills  
 
 ---
 
@@ -36,23 +38,39 @@ Informatics Student | C# Developer | Laravel Enthusiast | Dragon Ball Fan
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=okayamagang&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okayamagang&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 Current Goals
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=okayamagang&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🎯 Current Goals
 
 ✔ Improve C# skill  
 ✔ Learn more Laravel  
 ✔ Build useful applications  
-✔ Keep leveling up every day
+✔ Keep leveling up every day  
 
 ---
 
-## 🌟 Quote
+## 🌟 Favorite Quote
 
 > "Power comes in response to a need."
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>

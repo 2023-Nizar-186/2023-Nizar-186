@@ -9,7 +9,7 @@ Keep training. Keep improving. 🔥
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="700">
+<img src="https://i.pinimg.com/originals/1f/b4/a8/1fb4a8dc6e2c820fc035a12978ccd031.gif" width="700">
 </p>
 
 ---

@@ -88,7 +88,7 @@ Keep training. Keep improving. 🔥
 
 ## 🌟 Favorite Quote
 
-> "Power comes in response to a need."
+> "Even a low-class warrior can surpass an elite. With enough hard work."
 
 ---
 

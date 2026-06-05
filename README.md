@@ -66,9 +66,8 @@ Keep training. Keep improving. 🔥
 ---
 
 ## 🔥 GitHub Streak 
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=2023-Nizar-186&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=2023-Nizar-186&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---

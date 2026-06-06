@@ -28,31 +28,15 @@ Keep training. Keep improving. 🔥
 
 ## ⚡ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,c,cpp,java,python,php,javascript"/>
+  <img src="https://skillicons.dev/icons?i=cs,c,cpp,java,python,php,dart" />
 </p>
 
-### 🌐 Web Development
+### 🛠 Tools & Technologies
 <p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,html,css,js"/>
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,git,vscode" />
 </p>
-
-### 📱 Mobile Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=dart"/>
-</p>
-
-### 🗄 Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### 🛠 Tools & Version Control
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
 ---
 
 ## 🧠 Areas of Interest

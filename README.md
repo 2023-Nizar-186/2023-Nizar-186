@@ -37,6 +37,7 @@ Keep training. Keep improving. 🔥
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,mysql,git,vscode" />
 </p>
+
 ---
 
 ## 🧠 Areas of Interest

@@ -28,9 +28,52 @@ Keep training. Keep improving. 🔥
 
 ## ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,c,cpp,java,python,laravel,php,js,css,dart"/>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=cs,c,cpp,java,python,php"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🌐 Web
+<img src="https://skillicons.dev/icons?i=laravel,html,css,js"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=dart"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄 Database
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🛠 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</td>
+</tr>
+</table>
 
 ---
 

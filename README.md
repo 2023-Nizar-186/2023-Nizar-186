@@ -30,7 +30,7 @@ Keep training. Keep improving. 🔥
 
 ### 💻 Programming
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,c,cpp,java,python,php,dart" />
+  <img src="https://skillicons.dev/icons?i=cs,c,cpp,java,python,php,dart,html5,css3,js" />
 </p>
 
 ### 🛠 Tools & Technologies
